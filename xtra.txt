@@ -1,0 +1,6 @@
+echo"<div class='row'><span class='left'>From</span>";
+														echo"<label>".$_SESSION["se1"]."</label>";
+														echo"</div><br>";
+														echo"<div class='row'><span class='left'>To</span>";
+														echo"<label>".$_SESSION["se2"]."</label>";
+echo"</div>";
